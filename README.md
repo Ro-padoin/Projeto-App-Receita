@@ -9,6 +9,12 @@ Desenvolvido em grupo por:
 - Rosalia Padoin Oliveira
 - Yang Wom Vieira
 
+
+## Conteúdo do projeto:
+
+Desenvolvimento de um App de Receitas, utilizando o consumo de 2 API's e React: Hooks e Context API ou Redux. Nele, o usuário pode ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de comidas e bebidas. Layout com foco em dispositivos móveis
+
+
 ## Habilidades
 
   - Utilizar _Redux_ para gerenciar estado
@@ -20,14 +26,6 @@ Desenvolvido em grupo por:
   - Utilizar o _React  Hook
   - Criar Hooks customizados
   - Desenvolvimento de SoftSkills e utilização de metodologias ágeis.
-
-
-## Desenvolvimento
-
-- Um App de Receitas, utilizando React: Hooks e Context API. 
-- Usuário possa er, buscar, filtrar, favoritar e acompanhar o progresso de preparação de comidas e bebidas.
-- Consumo de 2 API's.
-- Layout com foco em dispositivos móveis.
 
 
 ## Desempenho
