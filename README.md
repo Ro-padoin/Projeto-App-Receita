@@ -37,6 +37,6 @@ Desenvolvido em grupo por:
 
 ## Projeto Finalizado
 
-O projeto finalizado pode ser apreciado no link:
+O projeto finalizado pode ser apreciado e utilizado no link:
  
 <https://admiring-ritchie-b6d922.netlify.app/>
