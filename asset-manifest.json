@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Projeto-App-Receita/static/css/main.b9cd458b.css",
+    "main.js": "/Projeto-App-Receita/static/js/main.6b7c93e4.js",
+    "static/media/backgroud.jpg": "/Projeto-App-Receita/static/media/backgroud.8a08507c903f500dc90d.jpg",
+    "static/media/ordinaryDrinks.jpg": "/Projeto-App-Receita/static/media/ordinaryDrinks.61bd28f01dfbdde78a5f.jpg",
+    "static/media/cocktail.jpg": "/Projeto-App-Receita/static/media/cocktail.7912e063ce46644f4295.jpg",
+    "static/media/chicken.jpg": "/Projeto-App-Receita/static/media/chicken.21802862afc2d2a32930.jpg",
+    "static/media/shake.jpg": "/Projeto-App-Receita/static/media/shake.eaf2bfddc722c83aeedb.jpg",
+    "static/media/beef.jpg": "/Projeto-App-Receita/static/media/beef.8917f701895290a7d074.jpg",
+    "static/media/goat.jpeg": "/Projeto-App-Receita/static/media/goat.0811265d2ac4dc84b043.jpeg",
+    "static/media/breakfast.jpg": "/Projeto-App-Receita/static/media/breakfast.5f8720ccdcf7b118410c.jpg",
+    "static/media/other.jpg": "/Projeto-App-Receita/static/media/other.176017e13304bf7afdc2.jpg",
+    "static/media/cocoa.jpg": "/Projeto-App-Receita/static/media/cocoa.9b148a369e19393dc9c2.jpg",
+    "static/media/dessert.jpeg": "/Projeto-App-Receita/static/media/dessert.8dbb53682518dc532754.jpeg",
+    "static/media/exploreIcon.svg": "/Projeto-App-Receita/static/media/exploreIcon.894fa93cb96287158f5ad33458bd4d68.svg",
+    "static/media/profileIcon.svg": "/Projeto-App-Receita/static/media/profileIcon.8f761579b99f3efb339214d1f129b30a.svg",
+    "static/media/drinkIcon.svg": "/Projeto-App-Receita/static/media/drinkIcon.21333b6f0b3efa6bc8f08cc662c8fac6.svg",
+    "static/media/mealIcon.svg": "/Projeto-App-Receita/static/media/mealIcon.ee6dbe30931d41051268bcc609a2d8f5.svg",
+    "static/media/whiteHeartIcon.svg": "/Projeto-App-Receita/static/media/whiteHeartIcon.a85691d59a060a7a6d23694b827331fb.svg",
+    "static/media/shareIcon.svg": "/Projeto-App-Receita/static/media/shareIcon.595ff8184c300ff0dfd5e08cc0682bca.svg",
+    "index.html": "/Projeto-App-Receita/index.html",
+    "static/media/blackHeartIcon.svg": "/Projeto-App-Receita/static/media/blackHeartIcon.83eae593d3aa99b30197460d608d233d.svg",
+    "static/media/searchIcon.svg": "/Projeto-App-Receita/static/media/searchIcon.d91078d0b2f6477a828b5ec00e0ac856.svg",
+    "main.b9cd458b.css.map": "/Projeto-App-Receita/static/css/main.b9cd458b.css.map",
+    "main.6b7c93e4.js.map": "/Projeto-App-Receita/static/js/main.6b7c93e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9cd458b.css",
+    "static/js/main.6b7c93e4.js"
+  ]
+}
