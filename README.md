@@ -17,6 +17,7 @@ Desenvolvido em grupo por:
   - Utilizar o _React Hook useState_
   - Utilizar o _React Hook useContext_
   - Utilizar o _React Hook useEffect_
+  - Utilizar o _React  Hook
   - Criar Hooks customizados
   - Desenvolvimento de SoftSkills e utilização de metodologias ágeis.
 
